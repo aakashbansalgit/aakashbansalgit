@@ -1,0 +1,14 @@
+---
+title: Projects
+---
+
+## Rainfall & Runoff Prediction Using Advanced Neural Networks
+
+This project focused on optimizing Wavelet Neural Network (WNN) and Long Short-Term Memory (LSTM) models to predict rainfall and runoff patterns in the Lower Godavari Basin. Historical time-series data such as temperature, humidity, longitude, and latitude were leveraged to enhance model accuracy. A Graphical User Interface (GUI) was developed to simplify the interaction and implementation of both models, paving the way for future research in hydrological forecasting.
+
+## Revenue Forecasting & Risk Analysis
+In collaboration with teams at UIUC and BITS Pilani, this project involved forecasting revenue growth for a dataset with over 4,000 features. Techniques such as Stochastic Gradient Descent, advanced optimization, and hyperparameter tuning were employed using Python libraries like JAX and Optax. The project also explored Hidden Markov Models for predicting returns and calculating Value at Risk, alongside Monte Carlo Simulation for portfolio optimization and risk analysis.
+
+## Comprehensive Business Risk Evaluation
+A robust analysis of business risks, including systematic and unsystematic risks, was conducted to evaluate financial, operational, and total leverage for competitor firms. Using financial models and simulations, the project aimed to interpret optimal capital structures for publicly traded stocks. This comprehensive approach provided actionable insights into business dynamics and capital strategy.
+

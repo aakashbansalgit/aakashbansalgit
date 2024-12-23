@@ -1,0 +1,11 @@
+---
+title: "Education"
+---
+
+I did my Undergrad in Bachelor of Engineering in ECE from Birla-Institute of Technology and Science, Pilani - Hyderabad Campus and currently pursuing my MS in Financial Engineering at University of Illinois Urbana Champaign. 
+
+::: {layout-ncol=2 layout-fill=[1,2]}
+
+
+:::
+
