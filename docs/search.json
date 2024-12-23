@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "Education/index.html",
+    "href": "Education/index.html",
+    "title": "Education",
+    "section": "",
+    "text": "I did my Undergrad in Bachelor of Engineering in ECE from Birla-Institute of Technology and Science, Pilani - Hyderabad Campus and currently pursuing my MS in Financial Engineering at University of Illinois Urbana Champaign."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project focused on optimizing Wavelet Neural Network (WNN) and Long Short-Term Memory (LSTM) models to predict rainfall and runoff patterns in the Lower Godavari Basin. Historical time-series data such as temperature, humidity, longitude, and latitude were leveraged to enhance model accuracy. A Graphical User Interface (GUI) was developed to simplify the interaction and implementation of both models, paving the way for future research in hydrological forecasting."
+  },
+  {
+    "objectID": "projects/index.html#digital-biomarkers-for-parkinsons-disease",
+    "href": "projects/index.html#digital-biomarkers-for-parkinsons-disease",
+    "title": "Projects",
+    "section": "",
+    "text": "At GSK, I had the opportunity to work on something incredibly meaningful—developing digital biomarkers for Parkinson’s disease. My role was to create algorithms that could analyze data from patients, including passive signals like sleep patterns and active ones like hand movement and voice modulation. Using digital signal processing, I extracted key features that allowed us to track the progression of the disease over time. I also deployed machine learning models, like Self-Organized Maps and Auto-encoders, to improve the accuracy of these biomarkers. It was rewarding to see that our model not only boosted feature importance by 60% but also reduced processing time by 1800 times, bringing us closer to real-time monitoring. This project taught me a lot about the impact of predictive diagnostics on patient lives and gave me a chance to present our findings across internal workshops, which was both nerve-wracking and incredibly fulfilling."
+  },
+  {
+    "objectID": "projects/index.html#fragment-based-structural-analysis-of-hdac3-inhibitors",
+    "href": "projects/index.html#fragment-based-structural-analysis-of-hdac3-inhibitors",
+    "title": "Projects",
+    "section": "Fragment-Based Structural Analysis of HDAC3 Inhibitors",
+    "text": "Fragment-Based Structural Analysis of HDAC3 Inhibitors\nDuring my academic journey, I dove into a research project that focused on HDAC3 inhibitors, a promising target for cancer therapy. I applied a fragment-based, non-linear machine learning approach to explore which structural features of HDAC3 inhibitors were most effective in blocking the enzyme’s activity. This involved a lot of deep dives into chemical space exploration and binding mode analysis, which we then used to refine the models further. Seeing this project culminate in a publication was an amazing milestone—it felt like a small but significant step towards better-targeted cancer treatments. This research taught me patience, attention to detail, and the power of a well-placed fragment in the fight against cancer."
+  },
+  {
+    "objectID": "projects/index.html#predictive-modeling-for-lung-cancer-stages-using-rna-sequencing-data",
+    "href": "projects/index.html#predictive-modeling-for-lung-cancer-stages-using-rna-sequencing-data",
+    "title": "Projects",
+    "section": "Predictive Modeling for Lung Cancer Stages Using RNA-Sequencing Data",
+    "text": "Predictive Modeling for Lung Cancer Stages Using RNA-Sequencing Data\nAt Elucidata, I worked on a project that combined two of my interests: machine learning and healthcare. I developed a model to predict lung cancer stages using RNA-sequencing data, and we experimented with Auto-ML techniques to improve data quality and preprocessing. The result? A model with a 93% AUC in predicting lung cancer stages—a result that made all the late nights worth it. Working on this project reinforced for me how machine learning can be a game-changer in early diagnosis and personalized treatment. Knowing that our work might one day help patients and doctors better understand and tackle lung cancer was incredibly motivating and made me feel like I was truly on the right path in my career."
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Interests",
+    "section": "",
+    "text": "I’ve always loved gaming—chess, in particular, is a favorite because it’s such a great way to challenge my mind and strategy skills. Cooking is another passion of mine; it’s relaxing, creative, and a way to connect with others. But what truly makes me happy is giving back. I enjoy working with charitable organizations and being involved in social services. It’s incredibly rewarding to know I’m making a difference, even in small ways, and helping to bring a little more positivity into the world."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my World!",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my World!\nI’m Aakash Bansal, a risk analyst and finance enthusiast with a deep interest in using data-driven strategies to solve complex problems. From optimizing predictive models to analyzing business risks, my journey is fueled by a curiosity to understand the world through numbers and a passion to make an impact. This website is a glimpse into my professional endeavors, academic pursuits, and aspirations for the future.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "projects/index.html#rainfall-runoff-prediction-using-advanced-neural-networks",
+    "href": "projects/index.html#rainfall-runoff-prediction-using-advanced-neural-networks",
+    "title": "Projects",
+    "section": "",
+    "text": "This project focused on optimizing Wavelet Neural Network (WNN) and Long Short-Term Memory (LSTM) models to predict rainfall and runoff patterns in the Lower Godavari Basin. Historical time-series data such as temperature, humidity, longitude, and latitude were leveraged to enhance model accuracy. A Graphical User Interface (GUI) was developed to simplify the interaction and implementation of both models, paving the way for future research in hydrological forecasting."
+  },
+  {
+    "objectID": "projects/index.html#revenue-forecasting-risk-analysis",
+    "href": "projects/index.html#revenue-forecasting-risk-analysis",
+    "title": "Projects",
+    "section": "Revenue Forecasting & Risk Analysis",
+    "text": "Revenue Forecasting & Risk Analysis\nIn collaboration with teams at UIUC and BITS Pilani, this project involved forecasting revenue growth for a dataset with over 4,000 features. Techniques such as Stochastic Gradient Descent, advanced optimization, and hyperparameter tuning were employed using Python libraries like JAX and Optax. The project also explored Hidden Markov Models for predicting returns and calculating Value at Risk, alongside Monte Carlo Simulation for portfolio optimization and risk analysis."
+  },
+  {
+    "objectID": "projects/index.html#comprehensive-business-risk-evaluation",
+    "href": "projects/index.html#comprehensive-business-risk-evaluation",
+    "title": "Projects",
+    "section": "Comprehensive Business Risk Evaluation",
+    "text": "Comprehensive Business Risk Evaluation\nA robust analysis of business risks, including systematic and unsystematic risks, was conducted to evaluate financial, operational, and total leverage for competitor firms. Using financial models and simulations, the project aimed to interpret optimal capital structures for publicly traded stocks. This comprehensive approach provided actionable insights into business dynamics and capital strategy."
+  }
+]

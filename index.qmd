@@ -1,0 +1,31 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/img.jpeg"
+  image-width: 20em
+  image-shape: round
+
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ChiniWiniCase
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aakashban/
+    - icon: envelope
+      text: Email
+      href: "mailto:aakashb4@illinois.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my World!
+
+I’m Aakash Bansal, a risk analyst and finance enthusiast with a deep interest in using data-driven strategies to solve complex problems. From optimizing predictive models to analyzing business risks, my journey is fueled by a curiosity to understand the world through numbers and a passion to make an impact. This website is a glimpse into my professional endeavors, academic pursuits, and aspirations for the future.
+
+
+Please feel free to [contact me](mailto:aakashb4@illinois.edu) if you have any questions or would like to discuss potential projects.
+
+
