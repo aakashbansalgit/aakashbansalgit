@@ -6,12 +6,12 @@ website:
   description: "A Financial Engineering student"   # A brief slogan (optional)
   image: img/img.jpeg
   
-  favicon: img/favicon.png
+  favicon: img/original_output.png
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    logo: /img/original_output.png
     
     # your sub-pages
     left:

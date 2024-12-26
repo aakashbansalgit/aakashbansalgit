@@ -1,8 +1,8 @@
 ---
 title: "Education"
 ---
+I am currently pursuing an MS in Financial Engineering(2024-25) at University of Illinois Urbana-Champaign. I received my bachelors in Electronics and Communications Engineering from BITS Pilani(2018-22) after which I joined JP Morgan Chase for two years.
 
-I did my Undergrad in Bachelor of Engineering in ECE from Birla-Institute of Technology and Science, Pilani - Hyderabad Campus and currently pursuing my MS in Financial Engineering at University of Illinois Urbana Champaign. 
 
 ::: {layout-ncol=2 layout-fill=[1,2]}
 
