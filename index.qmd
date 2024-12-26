@@ -7,15 +7,18 @@ about:
   image-shape: round
 
   links:
-    - icon: github
-      text: Github
-      href: https://github.com/aakashbansalgit/
+    - icon: envelope
+      text: Email
+      href: "mailto:aakashb4@illinois.edu"
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/aakashban/
-    - icon: envelope
-      text: Email
-      href: "mailto:aakashb4@illinois.edu"  
+    - icon: github
+      text: Github
+      href: https://github.com/aakashbansalgit/
+    - icon: gitlab
+      text: Gitlab
+      href: https://gitlab.engr.illinois.edu/aakashb4
 ---
 
 ::: {#about-block}
@@ -23,7 +26,7 @@ about:
 
 # Welcome to my World!
 
-I’m Aakash Bansal, a risk analyst and finance enthusiast with a deep interest in using data-driven strategies to solve complex problems. From optimizing predictive models to analyzing business risks, my journey is fueled by a curiosity to understand the world through numbers and a passion to make an impact. This website is a glimpse into my professional endeavors, academic pursuits, and aspirations for the future.
+I’m Aakash Bansal, a Financial Engineer and an ex-risk analyst with a deep interest in using data-driven strategies to solve complex financial challenges. From optimizing predictive models to analyzing business risks, my journey is fueled by a curiosity to understand the world through numbers and a passion to make an impact. This website is a glimpse into my professional endeavors, academic pursuits, and aspirations for the future.
 
 
 Please feel free to [contact me](mailto:aakashb4@illinois.edu) if you have any questions or would like to discuss potential projects.
