@@ -11,7 +11,7 @@
     "href": "Education/index.html",
     "title": "Education",
     "section": "",
-    "text": "I am currently pursuing an MS in Financial Engineering(2024-25) at University of Illinois Urbana-Champaign. I received my bachelors in Electronics and Communications Engineering from BITS Pilani(2018-22) after which I joined JP Morgan Chase for two years."
+    "text": "I am currently pursuing an MS in Financial Engineering(2024-25) at University of Illinois Urbana-Champaign. I am privileged to be part of a diverse and dynamic cohort. The program has provided me with a rigorous curriculum that combines quantitative finance and computational techniques with real-world applications. Courses like Numerical Methods, Stochastic Calculus, and Financial Computing together with courses like Financial Derivatives and Applied portfolio management have developed my quantitative skills, while group projects and case studies have fostered a spirit of collaboration and innovation. This enriching experience has equipped me to tackle the challenges of modern financial markets with confidence and adaptability.  I got the opportunity to meet people who come from diverse cultural and professional backgrounds, bringing unique perspectives to the program. Working together on projects, presentations, and problem-solving tasks has been an invaluable experience, allowing us to grow not only academically but also personally. This image reminds me of the supportive environment we have cultivated, which continues to inspire and motivate me to excel in my journey toward becoming a well-rounded financial engineer.  Studying at BITS Pilani was a transformative chapter in my academic and personal journey. It was here that I developed a strong foundation in Engineering while exploring my interest in Finance through a diverse curriculum. Beyond academics, the vibrant campus life allowed me to engage in various extracurricular activities, fostering lifelong friendships and enriching my leadership and teamwork skills. These pictures reminds me of the pride and camaraderie I shared with my peers, embodying the values of excellence and innovation that BITS Pilani instilled in us."
   },
   {
     "objectID": "projects/index.html",
@@ -67,7 +67,7 @@
     "href": "projects/index.html#revenue-forecasting-risk-analysis",
     "title": "Projects",
     "section": "Revenue Forecasting & Risk Analysis",
-    "text": "Revenue Forecasting & Risk Analysis\nIn collaboration with teams at UIUC and BITS Pilani, this project involved forecasting revenue growth for a dataset with over 4,000 features. Techniques such as Stochastic Gradient Descent, advanced optimization, and hyperparameter tuning were employed using Python libraries like JAX and Optax. The project also explored Hidden Markov Models for predicting returns and calculating Value at Risk, alongside Monte Carlo Simulation for portfolio optimization and risk analysis."
+    "text": "Revenue Forecasting & Risk Analysis\nThis project involved forecasting revenue growth for a dataset with over 4,000 features. Techniques such as Stochastic Gradient Descent, advanced optimization, and hyperparameter tuning were employed using Python libraries like JAX and Optax. The project also explored Hidden Markov Models for predicting returns and calculating Value at Risk, alongside Monte Carlo Simulation for portfolio optimization and risk analysis."
   },
   {
     "objectID": "projects/index.html#comprehensive-business-risk-evaluation",
@@ -75,5 +75,19 @@
     "title": "Projects",
     "section": "Comprehensive Business Risk Evaluation",
     "text": "Comprehensive Business Risk Evaluation\nA robust analysis of business risks, including systematic and unsystematic risks, was conducted to evaluate financial, operational, and total leverage for competitor firms. Using financial models and simulations, the project aimed to interpret optimal capital structures for publicly traded stocks. This comprehensive approach provided actionable insights into business dynamics and capital strategy."
+  },
+  {
+    "objectID": "Interests/index.html",
+    "href": "Interests/index.html",
+    "title": "Interests",
+    "section": "",
+    "text": "I’ve always loved gaming—chess, in particular, is a favorite because it’s such a great way to challenge my mind and strategy skills. Cooking is another passion of mine; it’s relaxing, creative, and a way to connect with others. But what truly makes me happy is giving back. I enjoy working with charitable organizations and being involved in social services. It’s incredibly rewarding to know I’m making a difference, even in small ways, and helping to bring a little more positivity into the world."
+  },
+  {
+    "objectID": "docs/interests/index.html",
+    "href": "docs/interests/index.html",
+    "title": "Interests",
+    "section": "",
+    "text": "I’ve always loved gaming—chess, in particular, is a favorite because it’s such a great way to challenge my mind and strategy skills. Cooking is another passion of mine; it’s relaxing, creative, and a way to connect with others. But what truly makes me happy is giving back. I enjoy working with charitable organizations and being involved in social services. It’s incredibly rewarding to know I’m making a difference, even in small ways, and helping to bring a little more positivity into the world."
   }
 ]
