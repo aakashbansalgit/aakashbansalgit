@@ -9,26 +9,20 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: "mailto:aakashb4@illinois.edu"
+      href: "mailto:engage.aakash@gmail.com"
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/aakashban/
     - icon: github
       text: Github
       href: https://github.com/aakashbansalgit/
-    - icon: gitlab
-      text: Gitlab
-      href: https://gitlab.engr.illinois.edu/aakashb4
 ---
 
 ::: {#about-block}
 :::
 
-# Welcome to my World!
+# About
 
-I’m Aakash Bansal, a Financial Engineer and an ex-risk analyst with a deep interest in using data-driven strategies to solve complex financial challenges. From optimizing predictive models to analyzing business risks, my journey is fueled by a curiosity to understand the world through numbers and a passion to make an impact. This website is a glimpse into my professional endeavors, academic pursuits, and aspirations for the future.
+I build quantitative models for credit, mortgages and derivatives. At Figure Lending I built the HELOC prepayment model behind the cash flow projections its securitizations were priced on. Before that I spent two and a half years in Home Lending credit risk at JPMorgan Chase, and most recently I was a research associate at Harvard Business School, working on how AI is changing startups. I hold an MS in Financial Engineering from the University of Illinois.
 
-
-Please feel free to [contact me](mailto:aakashb4@illinois.edu) if you have any questions or would like to discuss potential projects.
-
-
+My code is on [GitHub](https://github.com/aakashbansalgit/), and the [projects page](projects/index.qmd) has a short note on each. Feel free to [email me](mailto:engage.aakash@gmail.com).
