@@ -3,7 +3,7 @@
 # website settings
 website:
   title: "Aakash Bansal"                                # Your name
-  description: "A Financial Engineering student"   # A brief slogan (optional)
+  description: "Quantitative modelling for credit, mortgages and derivatives"   # A brief slogan (optional)
   image: img/img.jpeg
   
   favicon: img/original_output.png
@@ -31,7 +31,7 @@ website:
         href: https://www.linkedin.com/in/aakashban/
       - icon: envelope
         aria-label: email
-        href: "mailto:aakashb4@illinois.edu"  
+        href: "mailto:engage.aakash@gmail.com"  
   
   
 
@@ -39,6 +39,9 @@ website:
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "!docs/"
 
   preview: 
     port: 22222
