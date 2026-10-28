@@ -13,7 +13,7 @@ Quantitative modelling for credit, mortgages and derivatives. MS in Financial En
 
 Also: [pde-option-pricer](https://github.com/aakashbansalgit/pde-option-pricer), [lp-finance](https://github.com/aakashbansalgit/lp-finance), [time-series-econometrics](https://github.com/aakashbansalgit/time-series-econometrics), [cornell-case-competition](https://github.com/aakashbansalgit/cornell-case-competition), [sector-signal-backtest](https://github.com/aakashbansalgit/sector-signal-backtest).
 
-I consolidated and rebuilt my project repositories in October 2026, so most histories start then. Every project above except the NVIX study has tests that run on each push, and each README says where its numbers come from.
+I consolidated and rebuilt my project repositories in October 2026, so most histories start then. Every project above has tests that run on each push, and each README says where its numbers come from.
 
 Python, R, C++, SQL, SAS, VBA. PyTorch, scikit-learn, polars.
 
